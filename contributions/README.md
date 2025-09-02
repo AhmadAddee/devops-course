@@ -10,7 +10,7 @@ General Intro about the course.
 2. [Breaking and Fixing a React App with CI Guards](https://github.com/KTH/devops-course/pull/2700) - Demo
 3. [Stop Rebuilding the Wheel: Accelerating Monorepos with Turborepo's Remote Cache](https://github.com/KTH/devops-course/pull/2705) - Presentation
 4. [Story Design for CI Methodology](https://github.com/KTH/devops-course/pull/2707) - Presentation
-5. [Blocking push by linting result and blocking commit by testing and todo-comment-checking results]](https://github.com/KTH/devops-course/pull/2720) - Demo
+5. [Blocking push by linting result and blocking commit by testing and todo-comment-checking results](https://github.com/KTH/devops-course/pull/2720) - Demo
 6. [Fuzzing in your CI with OSS-Fuzz: detect unexepected bugs early.](https://github.com/KTH/devops-course/pull/2708) - Presentation
 7. [Hyperfine Performance Test Demo](https://github.com/KTH/devops-course/pull/2710) - Demo
 8. [Rule-based automated test execution through CI-pipeline](https://github.com/KTH/devops-course/pull/2709) - Demo
