@@ -1,18 +1,12 @@
-**The pull request must both contain a README.md and have description following the template below. This README.md must be the only file affected by the PR, and its contents must match the PR description exactly. The pull request must be created 3 business days before the actual delivery.**
-
-**The README.md file must be located in the directory**:
-
-`contributions/<category>/[<week>/]<kth-id-1>-<kth-id-2>/README.md`
-
 # Assignment Proposal
 
 ## Title
 
-_The title of your proposal_
+Feedback on Scientific paper - Poisoning Web-Scale Training Datasets is Practical
 
 ## Names and KTH ID
 
-  - Student name 1 (student123@kth.se)
+  - Ahmad Al Khateeb (ahmadak@kth.se)
   - Student name 2 (student321@kth.se)
 
 ## Deadline
@@ -34,20 +28,8 @@ _Else pick one of the following:_
 
 ## Category
 
-_Category of your proposal_
-
-_Pick one of the following:_
-- Demo
-- Presentation
-- Executable tutorial
-- Scientific paper
-- Open source
 - Feedback
 
 ## Description
 
-_Description of your proposal_
-
-**Relevance**
-
-_Motivate the relevance of your proposal with respect to DevOps_
+Feedback for ([#2747])(https://github.com/KTH/devops-course/pull/2747)
