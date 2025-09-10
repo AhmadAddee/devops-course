@@ -32,4 +32,4 @@ _Else pick one of the following:_
 
 ## Description
 
-Feedback for ([#2747])(https://github.com/KTH/devops-course/pull/2747)
+We would like to review the scientific paper [#2747](https://github.com/KTH/devops-course/pull/2747) and give feedback on it.
