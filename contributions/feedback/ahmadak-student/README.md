@@ -7,7 +7,7 @@ Feedback on Scientific paper - Poisoning Web-Scale Training Datasets is Practica
 ## Names and KTH ID
 
   - Ahmad Al Khateeb (ahmadak@kth.se)
-  - Student name 2 (student321@kth.se)
+  - Edwin So (edwinso@kth.se)
 
 ## Deadline
 
