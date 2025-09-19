@@ -11,7 +11,7 @@ CD in GitLab
 
 ## Deadline
 
-- Task 2
+- Task 3
 
 ## Category
 
