@@ -11,7 +11,7 @@ Securing the Software Supply Chain in DevSecOps with in-toto (USENIX Security 19
 
 ## Deadline
 
-- Week 5
+- Week 6
 
 ## Category
 
