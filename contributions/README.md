@@ -73,3 +73,4 @@ General Intro about the course.
 12. [Pulumi: Modern Infrastructure as Code for DevOps](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week5/rezahos-ajfr2) - Presentation
 13. [AWS CloudFormation: Infrastructure as Code for DevOps Efficiency](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week5/nargesas-somaiya) - Presentation
 14. [Fear No More, we got Loadbalancing at our Core](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week5/viktorrn-sedv) - Demo
+15. [Policy-as-Code for IaC: Enforcing Security, Compliance and Cost Control with Open Agent Policy (OPA)](https://github.com/KTH/devops-course/pull/2724) - Demo
