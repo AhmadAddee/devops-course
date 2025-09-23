@@ -65,14 +65,11 @@ General Intro about the course.
 4. [Terraform and Terraform Docs Demo](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week5/gjenner-phoebes) - Demo
 5. [Automated Minecraft Server Deployment and Monitoring with Terraform](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week5/sendek-lannge) - Demo
 6. [Disaster Recovery using Terraform and the Pilot Light Strategy in a Multi-Cloud Environment](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week5/thees-matcov) - Demo
-7. [Reuse the Infrastructure as Code (IaC) definition for multiple deployment environments](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week5/edwinso-tiar) - Demo
-8. [Coolify as Declarative Infrastructure as Code: Simplifying DevOps for Small Teams](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week5/abibr-ismmoh) - Presentation
-9. [Deploy your infrastructure declaratively using Nix and NixOS](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week5/guwallin-vitell) - Presentation
-10. [Reusable Infrastructure with Bicep Modules](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week5/jsoderho-jstagge) - Demo
-11. [Reusable Infrastructure with Pulumi Components](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week5/gnords-oarbman) - Demo
-12. [ClickOps and how it can hurt IaC through configuration drift](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week5/edwinahl-ekanerva) - Presentation
-13. [Compliant Ephemeral Environments with IaC](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week5/kohsuke-puta) - Demo
-14. [Pulumi: Modern Infrastructure as Code for DevOps](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week5/rezahos-ajfr2) - Presentation
-15. [AWS CloudFormation: Infrastructure as Code for DevOps Efficiency](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week5/nargesas-somaiya) - Presentation
-16. [Fear No More, we got Loadbalancing at our Core](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week5/viktorrn-sedv) - Demo
-17. [Vagrant networking: From nothing to Web and DB VM’s with one command](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week5/ericwer-yvdal) - Demo
+7. [Coolify as Declarative Infrastructure as Code: Simplifying DevOps for Small Teams](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week5/abibr-ismmoh) - Presentation
+8. [Deploy your infrastructure declaratively using Nix and NixOS](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week5/guwallin-vitell) - Presentation
+9. [Reusable Infrastructure with Bicep Modules](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week5/jsoderho-jstagge) - Demo
+10. [ClickOps and how it can hurt IaC through configuration drift](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week5/edwinahl-ekanerva) - Presentation
+11. [Compliant Ephemeral Environments with IaC](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week5/kohsuke-puta) - Demo
+12. [Pulumi: Modern Infrastructure as Code for DevOps](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week5/rezahos-ajfr2) - Presentation
+13. [AWS CloudFormation: Infrastructure as Code for DevOps Efficiency](https://github.com/KTH/devops-course/tree/2025/contributions/presentation/week5/nargesas-somaiya) - Presentation
+14. [Fear No More, we got Loadbalancing at our Core](https://github.com/KTH/devops-course/tree/2025/contributions/demo/week5/viktorrn-sedv) - Demo
