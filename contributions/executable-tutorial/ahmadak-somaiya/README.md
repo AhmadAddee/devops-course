@@ -19,9 +19,30 @@ CD in GitLab
 
 ## Description
 
-This tutorial introduces users to the fundamentals of Continuous Integration and Continuous Delivery (CI/CD) using GitLab. Starting from a simple application, users will configure automated pipelines that build, test, and deploy code with each commit. It will cover both a basic workflow (where every commit automatically triggers deployment) and a rule-based workflow, where deployment depends on branch or environment-specific conditions. 
+This tutorial introduces users to the fundamentals of Continuous Integration and Continuous Delivery (CI/CD) using GitLab through a progressive scenario; starting with a simple pipeline, then extending it to more advanced real-world workflows.
+1. Step 1 - Basic CI/CD
+   * Introduce a minimal `.gitlab-ci.yml` file.
+   * Configure jobs to build and test a simple Dockerized application.
+   * Show how every commit triggers a pipeline automatically.
+2. Step 2 - Branch and Environment Rules
+   * Add rules for staging vs. produciton deployments.
+   * Demonstrate conditional jobs (e.g., `only: main` for production)
+3. Step 3 - Multi-Stage Delivery with Approvals
+   * Introduce sequential environments: build -> test -> staging -> production.
+   * Use manual approvals or protected branches for production releases.
+4. Step 4 - Security & Quality Gates
+   * Add jobs for litning, unit tests, and a container vulnerability scan.
+   * Fail the pipeline if vulnerabilities or test errors are found.
+5. Step 5 - Visualizatoin and Reflection
+   * Show pipeline flow using GitLab's pipeline graph.
+   * Discuss trade-offs: speed vs. safety, automation vs. manual control.
 
-Following our tutorial, users will gain practical experience with the .gitlab-ci.yml configuration, setting up jobs/rules, and deploying to a containerized environment (Docker). Along the tutorial, we will reflect on the speed, safety, and automation of CD.
+
+
+Following our tutorial, users will:
+* Understatnd how to set up `.gitlab-ci.yml` with multiple stages.
+* Learn how to deploy to different environments seccurely.
+* Gain hands-on practice with DevOps concepts: automation, quality gates, and safe releases.
 
 
 **Relevance**
