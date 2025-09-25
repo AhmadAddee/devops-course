@@ -25,7 +25,7 @@ This tutorial introduces users to the fundamentals of Continuous Integration and
    * Configure jobs to build and test a simple Dockerized application.
    * Show how every commit triggers a pipeline automatically.
 2. Step 2 - Branch and Environment Rules
-   * Add rules for staging vs. produciton deployments.
+   * Add rules for staging vs. production deployments.
    * Demonstrate conditional jobs (e.g., `only: main` for production)
 3. Step 3 - Multi-Stage Delivery with Approvals
    * Introduce sequential environments: build -> test -> staging -> production.
@@ -33,15 +33,15 @@ This tutorial introduces users to the fundamentals of Continuous Integration and
 4. Step 4 - Security & Quality Gates
    * Add jobs for litning, unit tests, and a container vulnerability scan.
    * Fail the pipeline if vulnerabilities or test errors are found.
-5. Step 5 - Visualizatoin and Reflection
+5. Step 5 - Visualization and Reflection
    * Show pipeline flow using GitLab's pipeline graph.
    * Discuss trade-offs: speed vs. safety, automation vs. manual control.
 
 
 
 Following our tutorial, users will:
-* Understatnd how to set up `.gitlab-ci.yml` with multiple stages.
-* Learn how to deploy to different environments seccurely.
+* Understand how to set up `.gitlab-ci.yml` with multiple stages.
+* Learn how to deploy to different environments securely.
 * Gain hands-on practice with DevOps concepts: automation, quality gates, and safe releases.
 
 
